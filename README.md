@@ -6,4 +6,7 @@ Changes to be seen
 
 eclips edit #3
 
+ok now to get this working in java
+
 edit#4 testing to see if it works
+
